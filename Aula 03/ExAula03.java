@@ -5,4 +5,5 @@ public class Eletrodoméstico{
 
 
     public Eletrodoméstico(){}
+    String ola;
 }
